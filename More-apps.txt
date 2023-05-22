@@ -1,1 +1,13 @@
-More-apps.txt
+[
+
+  {
+
+    "nome": "Teste chat",
+
+    "capa": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSQPaP4e0Oxs8wvW5VvrKvM7DQvAPILuemzHA\u0026usqp\u003dCAU",
+
+    "url": "http://chat.whatsapp.com"
+
+  }
+
+]
